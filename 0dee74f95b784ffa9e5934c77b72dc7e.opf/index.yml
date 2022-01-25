@@ -1,11 +1,11 @@
-id: 3f3a8499a26842dfad87ab9fa6577d7f
+id: dd76839df77848dc880ec0928db04d48
 annotation_type: index
 revision: '00001'
 annotations:
-  d57527c5034f47e2983f77d89f1d5379:
+  d59ab49ec82b489d941582d87e29a77b:
     parts: {}
     span:
     - vol: 18
-      start: 0
-      end: 10118
+      start: 1
+      end: 8780
     work_id: D1805
